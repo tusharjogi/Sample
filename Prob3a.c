@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<math.h>
 #define n 5
 
 int main(void){
